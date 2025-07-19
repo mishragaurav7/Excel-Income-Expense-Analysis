@@ -30,7 +30,7 @@ This project analyzes detailed income and spending data across different regions
 
 ---
 
-## 📁 File Included
+## 📁 Slides Included
 
 - `income_expense_analysis.xlsx`: Contains raw data, pivot tables, and dashboard layout
   - **Data Sheet**: Individual-level financial data
