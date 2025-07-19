@@ -34,8 +34,19 @@ This project analyzes detailed income and spending data across different regions
 
 - `income_expense_analysis.xlsx`: Contains raw data, pivot tables, and dashboard layout
   - **Data Sheet**: Individual-level financial data
+  <img width="921" height="346" alt="data_sample" src="https://github.com/user-attachments/assets/8fa52820-8dc9-4d28-a9f9-8ec85d27cf25" />
+
+
   - **Pivot 1**: Region-wise income and expense monthly summary
-  - **Dash Board**: Placeholder for visualizing KPIs (under development)
+  <img width="803" height="316" alt="pivot_table" src="https://github.com/user-attachments/assets/00f28ac0-6366-404b-8f52-cf1f98f03e1d" />
+
+  
+  - **Dash Board**: Placeholder for visualizing KPIs 
+  <img width="935" height="353" alt="dashboard_layout1" src="https://github.com/user-attachments/assets/50c98fb5-d862-470f-9cf1-1014a26d436c" />
+  <img width="932" height="353" alt="dashboard_layout2" src="https://github.com/user-attachments/assets/ea1b9a06-f74e-41bb-8ff2-153d6bd85ab3" />
+  <img width="932" height="353" alt="dashboard_layout3" src="https://github.com/user-attachments/assets/17b01e04-9ded-43f0-93b9-37f1a7aaf371" />
+  
+
 
 ---
 
