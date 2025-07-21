@@ -28,7 +28,7 @@ This project analyzes detailed income and spending data across different regions
 - Revealed city-wise variations in cost of living and potential savings
 - Demonstrated how pivot tables can turn raw data into regionally segmented business intelligence
 
-[🔗 View Excel File on Google Drive](https://drive.google.com/drive/folders/1v13GXWyOnHrJCY_kL8LQU2LjgS2_uPGG?usp=drive_link))
+🔗 [View Excel File on Google Drive](https://drive.google.com/drive/folders/1v13GXWyOnHrJCY_kL8LQU2LjgS2_uPGG?usp=drive_link)
 
 ---
 
