@@ -19,7 +19,7 @@ This project analyzes detailed income and spending data across different regions
   - Pivot Tables for aggregation by region and month
   - Structured financial fields: rent, utilities, education, healthcare, etc.
   - Dashboard framework included for future visualization
-  - 
+
 ---
 
 ## 📈 Key Insights
@@ -27,6 +27,8 @@ This project analyzes detailed income and spending data across different regions
 - Identified monthly income and total expense trends across East, North, and South India
 - Revealed city-wise variations in cost of living and potential savings
 - Demonstrated how pivot tables can turn raw data into regionally segmented business intelligence
+
+[🔗 View Excel File on Google Drive](https://drive.google.com/drive/folders/1v13GXWyOnHrJCY_kL8LQU2LjgS2_uPGG?usp=drive_link))
 
 ---
 
@@ -43,11 +45,11 @@ This project analyzes detailed income and spending data across different regions
   
   - **Dash Board**: Placeholder for visualizing KPIs 
   <img width="935" height="353" alt="dashboard_layout1" src="https://github.com/user-attachments/assets/50c98fb5-d862-470f-9cf1-1014a26d436c" />
+  
   <img width="932" height="353" alt="dashboard_layout2" src="https://github.com/user-attachments/assets/ea1b9a06-f74e-41bb-8ff2-153d6bd85ab3" />
+  
   <img width="932" height="353" alt="dashboard_layout3" src="https://github.com/user-attachments/assets/17b01e04-9ded-43f0-93b9-37f1a7aaf371" />
   
-
-
 ---
 
 ## 🧠 Learning Outcomes
